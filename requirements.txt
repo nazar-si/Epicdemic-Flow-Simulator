@@ -1,0 +1,4 @@
+opensimplex
+numpy
+pygame
+scipy
