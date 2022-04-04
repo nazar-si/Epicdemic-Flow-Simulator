@@ -16,3 +16,6 @@ Just run:
 ```bash
 pip install -r requirements.txt
 ```
+
+For some reason I fineshed only UI for that thing. But anyway you may check my science paper (in progress) on that thing: 
+[Researching epidemic flow and social behaviour in virtual environment](./VEFE.pdf)
