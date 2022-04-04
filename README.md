@@ -11,4 +11,8 @@ We also recommend to check the papers listed in the description of this video.
 So, main.py - is file for running this program
 
 Requires such libraries as:<br/> • numpy<br/> • pygame<br/> • opensimplex</br>
-(We'll add requirements installer sooner)
+
+Just run:
+```bash
+pip install -r requirements.txt
+```
